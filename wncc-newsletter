@@ -1,0 +1,475 @@
+<!-- THIS EMAIL WAS BUILT AND TESTED WITH LITMUS http://litmus.com -->
+<!-- IT WAS RELEASED UNDER THE MIT LICENSE https://opensource.org/licenses/MIT -->
+<!-- QUESTIONS? TWEET US @LITMUSAPP -->
+<!doctype html>
+<html>
+<head>
+<title></title>
+<style type="text/css">
+/* CLIENT-SPECIFIC STYLES */
+
+
+
+body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+img { -ms-interpolation-mode: bicubic; }
+
+/* RESET STYLES */
+img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+table { border-collapse: collapse !important; }
+body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+}
+
+/* MOBILE STYLES */
+@media screen and (max-width: 600px) {
+  .img-max {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .max-width {
+    max-width: 100% !important;
+  }
+
+  .mobile-wrapper {
+    width: 85% !important;
+    max-width: 85% !important;
+  }
+
+  .mobile-padding {
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+  }
+}
+
+/* ANDROID CENTER FIX */
+div[style*="margin: 16px 0;"] { margin: 0 !important; }
+</style>
+</head>
+<body style="margin: 0 !important; padding: 0; !important background-color: #ffffff;" bgcolor="#ffffff">
+
+<!-- HIDDEN PREHEADER TEXT -->
+<div style="display: none; font-size: 1px; color: #fefefe; line-height: 1px; font-family: Open Sans, Helvetica, Arial, sans-serif; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">Presenting the Weekly Newsletter to make your Sunday better!
+</div>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+        <td align="center" valign="top" width="100%" background="bg.jpg" bgcolor="#3b4a69" style="background: #3b4a69 url('bg.jpg'); background-size: cover; padding: 50px 15px;" class="mobile-padding">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+            <tr>
+            <td align="center" valign="top" width="600">
+            <![endif]-->
+            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:600px;">
+                <tr>
+                    <td align="center" valign="top" style="padding: 0 0 20px 0;">
+                        <img src="http://resources.wncc-iitb.org/newsletter_header.png" width="85%" border="0" style="display: block;">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="top" style="padding: 0; font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                       <h1 style="font-size: 40px; color: #F8F272;">WnCC Newsletter</h1> 
+                        <p style="color: #F8F272; font-size: 20px; line-height: 28px; margin: 0;">
+                          Presenting the Weekly Newsletter to make your Sunday better!
+                        </p>
+                    </td>
+                </tr>
+            </table>
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+    <tr>
+        <td align="center" height="100%" valign="top" width="100%" bgcolor="#f6f6f6" style="padding: 50px 15px;" class="mobile-padding">
+            <!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+            <tr>
+            <td align="center" valign="top" width="600">
+            <![endif]-->
+            <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width:600px;">
+                <tr>
+                    <td align="center" valign="top" style="padding: 0 0 25px 0; font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 3px 3px 0 0;">
+                                    <img src="http://www.zedcoder.com/wp-content/uploads/2016/12/comp.png" width="300" height="75" alt="insert alt text here" style="display: block; border-radius: 3px 3px 0 0; font-family: sans-serif; font-size: 16px; color: #999999;" class="img-max"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 0 0 3px 3px; padding: 25px;">
+                                    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tr>
+                                            <td align="center" style="font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                                                <h2 style="font-size: 20px; color: #444444; margin: 0; padding-bottom: 10px;">Why Modern JS Frameworks Exist.</h2>
+                                                <p style="color: #999999; font-size: 16px; line-height: 24px; margin: 0;">
+                                                  We all have wondered at one point that why modern JavaScript frameworks still exist. We think we know why, don't we? <br>
+                                                  But what if I tell you it's not because they have a strong community or third party components or browser extension.<br>
+                                                  The essential, fundamental, deepest reason is because 
+                                                  "Keeping the UI in sync with the state is hard" <br>
+                                                  Suprising right?
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" style="padding: 30px 0 0 0;">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td align="center" style="border-radius: 26px;" bgcolor="#75b6c9">
+                                                            <a href="https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445" target="_blank" style="font-size: 16px; font-family: Open Sans, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; border-radius: 26px; background-color: #75b6c9; padding: 14px 26px; border: 1px solid #75b6c9; display: block;">Read More &rarr;</a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                      </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="top" style="padding: 25px 0; font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 3px 3px 0 0;">
+                                    <img src="https://www.2ndvote.com/wp-content/uploads/2016/03/Goldman-Sachs-Logo.jpg" width="300" height="75" alt="insert alt text here" style="display: block; border-radius: 3px 3px 0 0; font-family: sans-serif; font-size: 16px; color: #999999;" class="img-max"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 0 0 3px 3px; padding: 25px;">
+                                    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tr>
+                                            <td align="center" style="font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                                                <h2 style="font-size: 20px; color: #444444; margin: 0; padding-bottom: 10px;">Welcoming the new members to the Club,</h2>
+                                                <p style="color: #999999; font-size: 16px; line-height: 24px; margin: 0;">
+                                                  April 1st was marked with the addition of 20 new members to the Web and Coding Club Team, under the managers Sarthak Khandelwal and Yashvardhan Didwania.  
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" style="padding: 30px 0 0 0;">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td align="center" style="border-radius: 26px;" bgcolor="#75b6c9">
+                                                            <a href="https://www.theverge.com/2017/12/14/16776154/fcc-net-neutrality-vote-results-rules-repealed" target="_blank" style="font-size: 16px; font-family: Open Sans, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; border-radius: 26px; background-color: #75b6c9; padding: 14px 26px; border: 1px solid #75b6c9; display: block;">Read More &rarr;</a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="top" style="padding: 25px 0; font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 3px 3px 0 0;">
+                                    <img src="https://avatars3.githubusercontent.com/u/93594?s=400&v=4" width="300" height="75" alt="insert alt text here" style="display: block; border-radius: 3px 3px 0 0; font-family: sans-serif; font-size: 16px; color: #999999;" class="img-max"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 0 0 3px 3px; padding: 25px;">
+                                    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tr>
+                                            <td align="center" style="font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                                                <h2 style="font-size: 20px; color: #444444; margin: 0; padding-bottom: 10px;">The Internship Portal</h2>
+                                                <p style="color: #999999; font-size: 16px; line-height: 24px; margin: 0;">
+                                                  As most of you may be aware, this week marked the launch of the WnCC Internship portal. The launch was hugely successful with almost 300 signups within four hours of launch. The current number of sign-ups are ___. We have also been approached by quite a few prospective employers.
+
+ The credit of developing the portal goes to Nihal Singh, Sarthak Khandelwal and Yashwardhan Didwania. Many of you might wander what the purpose of such a portal is given the presence of the Internship Portal of the Placement Cell. 
+
+This portal, however, serves a very different purpose and that is to lend flexibility to the internships and make it easy for companies or professors to look for just one or two students without the undergoing the cumbersome procedure of going through the placement cell. The club was receiving numerous messages from students looking for opportunities and startups wanting freelancers and this was a way to match the correct people to the correct opportunity. For those of you who are looking for all sorts of internships or freelance work, this is a good way to expand your network, and for those who have signed up fill in your details truthfully and diligently and keep checking the portal at least once a week for the latest opportunities.
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" style="padding: 30px 0 0 0;">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td align="center" style="border-radius: 26px;" bgcolor="#75b6c9">
+                                                            <a href="https://portals.wncc-iitb.org/internships/login/" target="_blank" style="font-size: 16px; font-family: Open Sans, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; border-radius: 26px; background-color: #75b6c9; padding: 14px 26px; border: 1px solid #75b6c9; display: block;">Check it out &rarr;</a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align="center" valign="top" style="padding: 25px 0; font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 3px 3px 0 0;">
+                                    <img src="https://www.blackhat.com/images/page-graphics/metatag/event-logo-eu17.png" width="300" height="75" alt="insert alt text here" style="display: block; border-radius: 3px 3px 0 0; font-family: sans-serif; font-size: 16px; color: #999999;" class="img-max"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 0 0 3px 3px; padding: 25px;">
+                                    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tr>
+                                            <td align="center" style="font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                                                <h2 style="font-size: 20px; color: #444444; margin: 0; padding-bottom: 10px;">Fantastic GANs and where to find them</h2>
+                                                <p style="color: #999999; font-size: 16px; line-height: 24px; margin: 0;">
+                                                  This article is must-read for all of you who have heard about Generative Adversial Networks or GANs but have never gotten around to reading about them. For those who know about them, this article also talks about whether the hype around them is justified or not.
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" style="padding: 30px 0 0 0;">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td align="center" style="border-radius: 26px;" bgcolor="#75b6c9">
+                                                            <a href="http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them" target="_blank" style="font-size: 16px; font-family: Open Sans, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; border-radius: 26px; background-color: #75b6c9; padding: 14px 26px; border: 1px solid #75b6c9; display: block;">Read more &rarr;</a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td align="center" valign="top" style="padding: 25px 0; font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 3px 3px 0 0;">
+                                    <img src="https://www.2ndvote.com/wp-content/uploads/2016/03/Goldman-Sachs-Logo.jpg" width="300" height="75" alt="insert alt text here" style="display: block; border-radius: 3px 3px 0 0; font-family: sans-serif; font-size: 16px; color: #999999;" class="img-max"/>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" bgcolor="#ffffff" style="border-radius: 0 0 3px 3px; padding: 25px;">
+                                    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                                        <tr>
+                                            <td align="center" style="font-family: Open Sans, Helvetica, Arial, sans-serif;">
+                                                <h2 style="font-size: 20px; color: #444444; margin: 0; padding-bottom: 10px;">FCC Reforms in the US</h2>
+                                                <p style="color: #999999; font-size: 16px; line-height: 24px; margin: 0;">
+                                                  Only recently the Federal Communications Committee or the FCC of the United States of America approved measures to push back the tough net neutrality measures that had been implemented a couple of years ago. You can read more about how the internet reacted to it and what the implications of this could be. 
+                                                </p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" style="padding: 30px 0 0 0;">
+                                                <table border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td align="center" style="border-radius: 26px;" bgcolor="#75b6c9">
+                                                            <a href="https://www.theverge.com/2017/12/14/16776154/fcc-net-neutrality-vote-results-rules-repealed" target="_blank" style="font-size: 16px; font-family: Open Sans, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; border-radius: 26px; background-color: #75b6c9; padding: 14px 26px; border: 1px solid #75b6c9; display: block;">Read More &rarr;</a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                
+            </table>
+            <!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]-->
+        </td>
+    </tr>
+</table>
+   
+
+
+
+
+                  
+              <div style="background-color:transparent;">
+      <div style="Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;" class="block-grid four-up ">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+          <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="background-color:transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width: 600px;"><tr class="layout-full-width" style="background-color:transparent;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align="center" width="150" style=" width:150px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num3" style="max-width: 320px;min-width: 150px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+                  
+                    <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><![endif]-->
+<div style="color:#555555;line-height:120%;font-family:'Droid Serif', Georgia, Times, 'Times New Roman', serif; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"> 
+    <div style="font-size:12px;line-height:14px;color:#555555;font-family:'Droid Serif', Georgia, Times, 'Times New Roman', serif;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: center"><a style="color:#8F8F8F;text-decoration: underline;" href="http://wncc-iitb.org/" target="_blank" data-mce-selected="1">Website</a><br data-mce-bogus="1"></p></div>  
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+
+                  
+                  
+                    <div align="center" class="img-container center fixedwidth" style="padding-right: 20px;  padding-left: 20px;">
+<!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 20px; padding-left: 20px;" align="center"><![endif]-->
+<div style="line-height:10px;font-size:1px">&#160;</div>  <a href="http://wncc-iitb.org/" target="_blank">
+    <img class="center fixedwidth" align="center" border="0" src="http://resources.wncc-iitb.org/logo_black_small.png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;width: 100%;max-width: 52.5px" width="52.5">
+  </a>
+<div style="line-height:10px;font-size:1px">&#160;</div><!--[if mso]></td></tr></table><![endif]-->
+</div>
+
+                  
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+              <!--[if (mso)|(IE)]></td><td align="center" width="150" style=" width:150px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num3" style="max-width: 320px;min-width: 150px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+                  
+                    <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><![endif]-->
+<div style="color:#555555;line-height:120%;font-family:'Droid Serif', Georgia, Times, 'Times New Roman', serif; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"> 
+    <div style="font-size:12px;line-height:14px;color:#555555;font-family:'Droid Serif', Georgia, Times, 'Times New Roman', serif;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: center"><a style="color:#8F8F8F;text-decoration: underline;" href="https://groups.google.com/forum/#!topic/wncc_iitb/" target="_blank" data-mce-selected="1">Google Group</a><br></p></div>   
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+
+                  
+                  
+                    
+<div align="center" style="padding-right: 15px; padding-left: 15px; padding-bottom: 15px;">
+  <div style="line-height:15px;font-size:1px">&#160;</div>
+  <div style="display: table; max-width:127px;">
+  <!--[if (mso)|(IE)]><table width="97" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-collapse:collapse; padding-right: 15px; padding-left: 15px; padding-bottom: 15px;"  align="center"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:97px;"><tr><td width="32" style="width:32px; padding-right: 5px;" valign="top"><![endif]-->
+    <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;Margin-right: 0">
+      <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+        <a href="https://groups.google.com/forum/#!topic/wncc_iitb/" title="Google+" target="_blank">
+          <img src="http://resources.wncc-iitb.org/googlegroups.png" alt="Google+" title="Google+" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+        </a>
+      <div style="line-height:5px;font-size:1px">&#160;</div>
+      </td></tr>
+    </tbody></table>
+    <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+  </div>
+</div>
+                  
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+              <!--[if (mso)|(IE)]></td><td align="center" width="150" style=" width:150px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num3" style="max-width: 320px;min-width: 150px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+                  
+                    <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><![endif]-->
+<div style="color:#555555;line-height:120%;font-family:'Droid Serif', Georgia, Times, 'Times New Roman', serif; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"> 
+    <div style="font-size:12px;line-height:14px;color:#555555;font-family:'Droid Serif', Georgia, Times, 'Times New Roman', serif;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: center"><a style="color:#8F8F8F;text-decoration: underline;" href="https://www.facebook.com/wncc.iitb/" target="_blank" data-mce-selected="1">Facebook Page</a><br></p></div> 
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+
+                  
+                  
+                    
+<div align="center" style="padding-right: 15px; padding-left: 15px; padding-bottom: 15px;">
+  <div style="line-height:15px;font-size:1px">&#160;</div>
+  <div style="display: table; max-width:127px;">
+  <!--[if (mso)|(IE)]><table width="97" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-collapse:collapse; padding-right: 15px; padding-left: 15px; padding-bottom: 15px;"  align="center"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:97px;"><tr><td width="32" style="width:32px; padding-right: 5px;" valign="top"><![endif]-->
+    <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;Margin-right: 0">
+      <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+        <a href="https://www.facebook.com/wncc.iitb/" title="Facebook" target="_blank">
+          <img src="http://resources.wncc-iitb.org/facebook@2x.png" alt="Facebook" title="Facebook" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+        </a>
+      <div style="line-height:5px;font-size:1px">&#160;</div>
+      </td></tr>
+    </tbody></table>
+    <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+  </div>
+</div>
+                  
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+              <!--[if (mso)|(IE)]></td><td align="center" width="150" style=" width:150px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num3" style="max-width: 320px;min-width: 150px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+                  
+                    <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><![endif]-->
+<div style="color:#555555;line-height:120%;font-family:'Droid Serif', Georgia, Times, 'Times New Roman', serif; padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"> 
+    <div style="font-size:12px;line-height:14px;color:#555555;font-family:'Droid Serif', Georgia, Times, 'Times New Roman', serif;text-align:left;"><p style="margin: 0;font-size: 12px;line-height: 14px;text-align: center"><a style="color:#8F8F8F;text-decoration: underline;" href="https://www.youtube.com/channel/UCs3x_XxwScIAzDUfN1lbbGw" target="_blank" data-mce-selected="1">YouTube Channel</a><br></p></div>  
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+
+                  
+                  
+                    
+<div align="center" style="padding-right: 15px; padding-left: 15px; padding-bottom: 15px;">
+  <div style="line-height:15px;font-size:1px">&#160;</div>
+  <div style="display: table; max-width:127px;">
+  <!--[if (mso)|(IE)]><table width="97" cellpadding="0" cellspacing="0" border="0"><tr><td style="border-collapse:collapse; padding-right: 15px; padding-left: 15px; padding-bottom: 15px;"  align="center"><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:97px;"><tr><td width="32" style="width:32px; padding-right: 5px;" valign="top"><![endif]-->
+    <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;Margin-right: 0">
+      <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
+        <a href="https://www.youtube.com/channel/UCs3x_XxwScIAzDUfN1lbbGw" title="YouTube" target="_blank">
+          <img src="http://resources.wncc-iitb.org/youtube@2x.png" alt="YouTube" title="YouTube" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+        </a>
+      <div style="line-height:5px;font-size:1px">&#160;</div>
+      </td></tr>
+    </tbody></table>
+    <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+  </div>
+</div>
+                  
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+        </div>
+      </div>
+    </div>    <div style="background-color:transparent;">
+      <div style="Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;" class="block-grid ">
+        <div style="border-collapse: collapse;display: table;width: 100%;background-color:transparent;">
+          <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="background-color:transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width: 600px;"><tr class="layout-full-width" style="background-color:transparent;"><![endif]-->
+
+              <!--[if (mso)|(IE)]><td align="center" width="600" style=" width:600px; padding-right: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;" valign="top"><![endif]-->
+            <div class="col num12" style="min-width: 320px;max-width: 600px;display: table-cell;vertical-align: top;">
+              <div style="background-color: transparent; width: 100% !important;">
+              <!--[if (!mso)&(!IE)]><!--><div style="border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+
+                  
+                    <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><![endif]-->
+
+<!--[if mso]></td></tr></table><![endif]-->
+
+                  
+              <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]-->
+        </div>
+      </div>
+    </div>   <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </td>
+  </tr>
+  </tbody>
+  </table>
+  <!--[if (mso)|(IE)]></div><![endif]-->
+
+
+</body>
+</html>
